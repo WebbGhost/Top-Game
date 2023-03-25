@@ -1,9 +1,5 @@
-<h1>React with Typescript,eslint,airbnd,prettier and husky setup</h1>
+<h1>Top Game </h1>
 
-<p>clone this repository and run</p>
-<br>
-<code>yarn</code>
-<br/>
-<code>yarn dev</code>
+<p>A website where you can find amazing new upcoming and top games avaliable for play on PC, Consoles,PLaystations and mobile devices</p>
 
-<h4>you can modify any settings according to your need</h4>
+
