@@ -8,11 +8,11 @@ function App() {
                 <NavBar />
             </div>
 
-            <div className="col-span-2 row-span-6 bg-gray-900 text-white">
+            <div className="col-span-1 row-span-6 bg-gray-900 text-white">
                 sidebar
             </div>
 
-            <div className="col-span-10 row-span-6 bg-gray-100 ">
+            <div className="col-span-11 row-span-6 bg-gray-100 ">
                 <GameGrid />
             </div>
         </div>

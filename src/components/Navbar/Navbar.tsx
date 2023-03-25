@@ -7,7 +7,7 @@ interface Props {
     onSearch: (searchText: string) => void;
 }
 
-const NavBar = ({ onSearch }: Props) => {
+const NavBar = () => {
     return (
         <div className="p-10">
             <Logo />
